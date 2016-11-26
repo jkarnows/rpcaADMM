@@ -1,6 +1,6 @@
 <h2>Robust Principal Component Analysis via ADMM in Python</h2>
 
-This is a Python implementation of the RPCA algorithm from [1,2] that uses an ADMM version of matrix decomposition.
+This is a Python implementation of the RPCA algorithm from [1,2] that uses an ADMM version of matrix decomposition. Blog post associated with this repo can be found <a href="https://jeremykarnowski.wordpress.com/2015/08/31/robust-principal-component-analysis-via-admm-in-python/">here</a>.
 
 <h3>Appendix</h3>
 [1] <a href="http://web.stanford.edu/~boyd/papers/prox_algs.html">Parikh, N., & Boyd, S. (2013). Proximal algorithms. Foundations and Trends in optimization, 1(3), 123-231.</a><br>
